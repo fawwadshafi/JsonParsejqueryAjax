@@ -1,0 +1,10 @@
+$ph_library=$this->input->post('ph_library');
+
+        /*$a=json_decode($ph_library);
+        $i=0;
+        foreach($a as $b){
+            echo $a[$i]->phoneName;
+            echo "<br/>";
+            echo $a[$i]->phoneNumber;
+            $i++;
+        }*/
